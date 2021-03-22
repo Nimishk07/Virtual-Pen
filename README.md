@@ -4,7 +4,7 @@
 ### Installation
 ### Clone
 ###### Clone this repo to your local machine using 
-### Setup/Requirements
+* Setup/Requirements
 #### The code is written in Python (Python3) C++ You need the following libraries
 * numpy
 * OpenCV
