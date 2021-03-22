@@ -10,8 +10,8 @@
 > - OpenCV
 > - time
 ### Working
-1. - Save the color of the object you want to use as pen using hsv **detection.py**
-2. - run **Virtualpen.py**
+1. Save the color of the object you want to use as pen using hsv **detection.py**
+2. run **Virtualpen.py**
 ### Functionalities
 1. When **c** is pressed **clear the canvas**
 2. when **spacebar** is pressed then it will change to **eraser mode and vice-versa**
