@@ -10,7 +10,7 @@
 > - OpenCV
 > - time
 ### Working
-1. Save the color of the object you want to use as pen using hsv **detection.py**
+1. Save the color of the object you want to use as pen using **hsv detection.py**
 2. run **Virtualpen.py**
 ### Functionalities
 1. When **c** is pressed **clear the canvas**
