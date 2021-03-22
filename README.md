@@ -1,7 +1,7 @@
 # Virtual-Pen
-### Overview
+## Overview
 ###### This is a Computer Vision Project focusing on color detection and then drawing on your live feed or a canvas using your Camera 
-### Installation
+## Installation
 ### Clone
 > -  Clone this repo to your local machine using https://github.com/Nimishk07/Virtual-Pen
 ### Setup/Requirements
